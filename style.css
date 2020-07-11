@@ -1,0 +1,39 @@
+/*#circle{
+	background-color:#999999;
+	border-radius: 100px;
+	width:10px;
+	height:100px;
+	text-align: center;
+	line-height: 100px
+}*/
+
+#square{
+	width:450px;
+	height:210px;
+	background-color: #999999;
+	text-align: left;
+	text-align: top;
+
+}
+
+#text{
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+/*.circle{
+	position: relative;
+}*/
+h2 {
+	position	: relative;
+	left		: 0;
+	width		: 100%;
+}
+
+.images{
+	background-image: url(images/2.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 5%;
+	width: 12.1%;
+	
+}
